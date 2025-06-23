@@ -1,5 +1,0 @@
-streamlit
-pytesseract
-pdf2image
-transformers
-Pillow
