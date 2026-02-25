@@ -2,9 +2,7 @@
 
 ## Visão Geral
 
-Este projeto consiste no desenvolvimento de uma arquitetura avançada para **ingestão, processamento, análise semântica e sumarização automatizada de documentos PDF**, projetada para ambientes corporativos e cenários que exigem alto nível de confidencialidade e governança de dados.
-
-Devido à natureza sensível das implementações, detalhes técnicos completos, código-fonte e estruturas internas não são disponibilizados publicamente.
+Este projeto consiste no desenvolvimento de uma arquitetura para **ingestão, processamento, análise semântica e sumarização automatizada de documentos PDF**, projetada para ambientes corporativos onde exigem alto nível de confidencialidade e governança de dados.
 
 ---
 
